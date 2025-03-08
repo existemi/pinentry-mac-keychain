@@ -19,7 +19,7 @@ const pmp = "/opt/homebrew/bin/pinentry-mac"
 //	go install -ldflags "-X main.logfile=$HOME/pinentry.log"
 //
 // to build with debug output.
-var logfile = ""
+var logfile = "/Users/roy/pinentry.log"
 
 func main() {
 	var err error
