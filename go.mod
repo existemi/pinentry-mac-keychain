@@ -1,4 +1,4 @@
-module github.com/olebedev/pinentry-mac-keychain
+module github.com/existemi/pinentry-mac-keychain
 
 go 1.19
 
