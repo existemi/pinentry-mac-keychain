@@ -12,7 +12,7 @@ import (
 	"github.com/apex/log/handlers/json"
 )
 
-const pmp = "/usr/local/MacGPG2/libexec/pinentry-mac.app/Contents/MacOS/pinentry-mac"
+const pmp = "/opt/homebrew/bin/pinentry-mac"
 
 // File path to write debug info to, use
 //
